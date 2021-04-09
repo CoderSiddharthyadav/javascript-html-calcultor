@@ -1,4 +1,4 @@
-![Uploading d.gif…]()
+![d.gif…]()
 
 
 # javascript-calcultor
